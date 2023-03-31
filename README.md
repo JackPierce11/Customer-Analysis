@@ -27,5 +27,11 @@ Through the analysis of customer data, this project identified key customer segm
 - Customers who participated in more campaigns had higher average total spending and mean purchase value per order. Encouraging customer participation in campaigns can lead to higher spending and purchase values.
 - One-person households displayed the highest average total spending, mean purchase value per order, and response rate to campaigns. Offering products and services catering to one-person households, such as smaller and more affordable packages or personalized experiences, can drive higher sales and customer satisfaction.
 
+
+The below image shows how total spending varied for different customer segments:
+
+![image](https://user-images.githubusercontent.com/73466733/229085403-769b419e-94c0-4d5d-8a0e-8cf889bd8d47.png)
+
+
 ## Conclusion
 The insights and recommendations provided by this project can help the company tailor its marketing campaigns and product offerings to meet the needs and preferences of specific customer segments. By implementing these strategies, the business can increase sales and revenue while enhancing customer satisfaction.
